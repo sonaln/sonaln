@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sonal Naik, a sophomore studying Computer Science and Data Science at Purdue University!
 
 - 🔭 I’m currently working on a personal project using React and Python
-- 🌱 I’m currently learning AWS, GCP, and Generative AI Models, 
+- 🌱 I’m currently learning AWS, GCP, and Generative AI Models 
 - 👯 I’m looking to collaborate on side projects and hackathons
 - 📫 How to reach me: naik51@purdue.edu
 
