@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on personal projects and hackathons
 - 📫 Contact me: naik51@purdue.edu | sonal.sachin.naik@gmail.com
 
-[![Sonal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonaln)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonaln)](https://github.com/anuraghazra/github-readme-stats)
