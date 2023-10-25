@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on personal projects and hackathons
 - 📫 Contact me: naik51@purdue.edu | sonal.sachin.naik@gmail.com
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonaln&exclude_repo=blizzardroboticswebsite-current&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonaln&exclude_repo=blizzardroboticswebsite-current&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
