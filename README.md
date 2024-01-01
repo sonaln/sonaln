@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently working on implementing different LLMs into Document QA Chatbots
 - 🌱 I’m currently learning how to incorporate AWS, GCP, and Generative AI Models into tangible ideas
-- 👯 I’m looking to collaborate on personal projects and hackathons
+- 👯 Researching with Eli Lilly and Co & PurSec Lab
 - 📫 Contact me: naik51@purdue.edu | sonal.sachin.naik@gmail.com
